@@ -4,6 +4,6 @@ Common Lisp JSON reading and writing for the Kzinti.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/yitzchak/shasht.git |
-| commit  | 27ba0a8                                    |
+| commit  | b73ce8f                                    |
 | systems | shasht                                     |
 |---------+--------------------------------------------|
